@@ -7,8 +7,8 @@ Create dashboards for displaying key KPI figures from sample insurance complaint
 
 ## Power BI
 ![image](https://user-images.githubusercontent.com/108044333/175336600-1d523300-ab53-41bf-bad7-46e97785db85.png)
+![image](https://user-images.githubusercontent.com/108044333/175894953-3623096b-c686-4c29-bf17-2dc01525e265.png)
 
-![image](https://user-images.githubusercontent.com/108044333/175337060-33707dd7-d8ec-4ee4-913e-8c393b452c9b.png)
 
 ## Tableau
 Online link for accessing:
