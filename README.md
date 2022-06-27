@@ -11,7 +11,7 @@ Create dashboards for displaying key KPI figures from sample insurance complaint
 
 
 ## Tableau
-Online link for accessing:
+Online link for accessing: https://public.tableau.com/app/profile/anson.1998/viz/InsuranceComplainsReport/FullStory
 ![image](https://user-images.githubusercontent.com/108044333/175338494-ba021a01-79bd-49dc-a5b7-b7c9e09bba1d.png)
 ![image](https://user-images.githubusercontent.com/108044333/175340841-352caab8-7775-4a74-a6ba-f0d8a40d82fd.png)
 
